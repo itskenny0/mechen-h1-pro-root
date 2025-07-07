@@ -1,5 +1,5 @@
 # mechen-h1-pro-root
-Reverse engineering / rooting information regarding the mechen h1 pro Android MP3 player
+Reverse engineering / rooting information regarding the mechen h1 pro Android MP3 player.
 Not to be confused with the non-pro Mechen H1, which seems to be more locked down judging by information on the internet.
 
 The H1 Pro seems to have slipped in price massively and can be had for around 30$ on sale on aliexpress, making it an interesting target.
