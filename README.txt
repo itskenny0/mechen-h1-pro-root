@@ -30,7 +30,8 @@ The repo contains a rooted kernel for the aforementioned firmware version, but i
 
 # Unlock the bootloader
 !!! Following these steps will erase the internal storage, backup your stuff. !!!
-Also the device will have a 5 second delay before boot and a warning message ("Code orange, device cannot be trusted") is displayed on powerup.
+I recommend doing this on Linux as the device is immediately detected as where in Windows you need to mess with drivers to talk to fastboot.
+Also, afterwards the device will have a 5 second delay before boot and a warning message ("Code orange, device cannot be trusted") is displayed on powerup.
 * Go into Settings > System > About Device
 * Repeatedly tap on the model name (MECHEN H1-Pro) until you are a developer
 * In developer menu one level up, enable OEM unlocking and adb debugging
