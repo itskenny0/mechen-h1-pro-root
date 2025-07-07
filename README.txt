@@ -46,5 +46,8 @@ Also, afterwards the device will have a 5 second delay before boot and a warning
 * After the player has booted, open the Magisk app and install again. It should now offer you to patch the kernel on-device. Do this and reboot again.
 * You are rooted.
 
+# Getting rid of HiByMusic
+This app seems to reinstall itself everytime you reboot it. I have not yet looked where this happens, but it can be prevented by instead of uninstalling the app, freezing it with Package Manager (https://f-droid.org/packages/com.smartpack.packagemanager/).
+
 # To be done
 * GSI treble image testing
